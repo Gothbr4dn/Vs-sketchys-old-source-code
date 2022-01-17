@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sketchy.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sketchy down0000" x="0" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy down0001" x="414" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy down0002" x="828" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy down0003" x="1242" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy down0004" x="1656" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy down0005" x="1656" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy down0006" x="1656" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy down0007" x="1656" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy down0008" x="1656" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy down0009" x="1656" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy down0010" x="1656" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy idle0000" x="2070" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy idle0001" x="2070" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy idle0002" x="2484" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy idle0003" x="2484" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy idle0004" x="2898" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy idle0005" x="2898" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy idle0006" x="3312" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy idle0007" x="3312" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy idle0008" x="3312" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy idle0009" x="3312" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy idle0010" x="3312" y="0" width="414" height="582"/>
+	<SubTexture name="sketchy left0000" x="0" y="582" width="414" height="582"/>
+	<SubTexture name="sketchy left0001" x="414" y="582" width="414" height="582"/>
+	<SubTexture name="sketchy left0002" x="828" y="582" width="414" height="582"/>
+	<SubTexture name="sketchy left0003" x="1242" y="582" width="414" height="582"/>
+	<SubTexture name="sketchy left0004" x="1656" y="582" width="414" height="582"/>
+	<SubTexture name="sketchy left0005" x="1656" y="582" width="414" height="582"/>
+	<SubTexture name="sketchy left0006" x="1656" y="582" width="414" height="582"/>
+	<SubTexture name="sketchy left0007" x="1656" y="582" width="414" height="582"/>
+	<SubTexture name="sketchy left0008" x="1656" y="582" width="414" height="582"/>
+	<SubTexture name="sketchy left0009" x="1656" y="582" width="414" height="582"/>
+	<SubTexture name="sketchy left0010" x="1656" y="582" width="414" height="582"/>
+	<SubTexture name="sketchy left0011" x="1656" y="582" width="414" height="582"/>
+	<SubTexture name="sketchy left0012" x="1656" y="582" width="414" height="582"/>
+	<SubTexture name="sketchy right0000" x="2070" y="582" width="414" height="582"/>
+	<SubTexture name="sketchy right0001" x="2484" y="582" width="414" height="582"/>
+	<SubTexture name="sketchy right0002" x="2898" y="582" width="414" height="582"/>
+	<SubTexture name="sketchy right0003" x="3312" y="582" width="414" height="582"/>
+	<SubTexture name="sketchy right0004" x="0" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy right0005" x="0" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy right0006" x="0" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy right0007" x="0" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy right0008" x="0" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy right0009" x="0" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy right0010" x="0" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy right0011" x="0" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy right0012" x="0" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy up0000" x="414" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy up0001" x="828" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy up0002" x="1242" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy up0003" x="1656" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy up0004" x="2070" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy up0005" x="2070" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy up0006" x="2070" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy up0007" x="2070" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy up0008" x="2070" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy up0009" x="2070" y="1164" width="414" height="582"/>
+	<SubTexture name="sketchy up0010" x="2070" y="1164" width="414" height="582"/>
+</TextureAtlas>

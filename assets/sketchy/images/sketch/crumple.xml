@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crumple.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crumpledown0000" x="0" y="0" width="414" height="582"/>
+	<SubTexture name="crumpledown0001" x="414" y="0" width="414" height="582"/>
+	<SubTexture name="crumpledown0002" x="828" y="0" width="414" height="582"/>
+	<SubTexture name="crumpledown0003" x="1242" y="0" width="414" height="582"/>
+	<SubTexture name="crumpledown0004" x="1656" y="0" width="414" height="582"/>
+	<SubTexture name="crumpledown0005" x="1656" y="0" width="414" height="582"/>
+	<SubTexture name="crumpledown0006" x="1656" y="0" width="414" height="582"/>
+	<SubTexture name="crumpledown0007" x="1656" y="0" width="414" height="582"/>
+	<SubTexture name="crumpledown0008" x="1656" y="0" width="414" height="582"/>
+	<SubTexture name="crumpledown0009" x="1656" y="0" width="414" height="582"/>
+	<SubTexture name="crumpledown0010" x="1656" y="0" width="414" height="582"/>
+	<SubTexture name="crumpleidle0000" x="2070" y="0" width="414" height="582"/>
+	<SubTexture name="crumpleidle0001" x="2070" y="0" width="414" height="582"/>
+	<SubTexture name="crumpleidle0002" x="2484" y="0" width="414" height="582"/>
+	<SubTexture name="crumpleidle0003" x="2484" y="0" width="414" height="582"/>
+	<SubTexture name="crumpleidle0004" x="2898" y="0" width="414" height="582"/>
+	<SubTexture name="crumpleidle0005" x="2898" y="0" width="414" height="582"/>
+	<SubTexture name="crumpleidle0006" x="3312" y="0" width="414" height="582"/>
+	<SubTexture name="crumpleidle0007" x="3312" y="0" width="414" height="582"/>
+	<SubTexture name="crumpleidle0008" x="3312" y="0" width="414" height="582"/>
+	<SubTexture name="crumpleidle0009" x="3312" y="0" width="414" height="582"/>
+	<SubTexture name="crumpleidle0010" x="3312" y="0" width="414" height="582"/>
+	<SubTexture name="crumpleleft0000" x="0" y="582" width="414" height="582"/>
+	<SubTexture name="crumpleleft0001" x="414" y="582" width="414" height="582"/>
+	<SubTexture name="crumpleleft0002" x="828" y="582" width="414" height="582"/>
+	<SubTexture name="crumpleleft0003" x="1242" y="582" width="414" height="582"/>
+	<SubTexture name="crumpleleft0004" x="1656" y="582" width="414" height="582"/>
+	<SubTexture name="crumpleleft0005" x="1656" y="582" width="414" height="582"/>
+	<SubTexture name="crumpleleft0006" x="1656" y="582" width="414" height="582"/>
+	<SubTexture name="crumpleleft0007" x="1656" y="582" width="414" height="582"/>
+	<SubTexture name="crumpleleft0008" x="1656" y="582" width="414" height="582"/>
+	<SubTexture name="crumpleleft0009" x="1656" y="582" width="414" height="582"/>
+	<SubTexture name="crumpleleft0010" x="1656" y="582" width="414" height="582"/>
+	<SubTexture name="crumpleleft0011" x="1656" y="582" width="414" height="582"/>
+	<SubTexture name="crumpleleft0012" x="1656" y="582" width="414" height="582"/>
+	<SubTexture name="crumpleright0000" x="2070" y="582" width="414" height="582"/>
+	<SubTexture name="crumpleright0001" x="2484" y="582" width="414" height="582"/>
+	<SubTexture name="crumpleright0002" x="2898" y="582" width="414" height="582"/>
+	<SubTexture name="crumpleright0003" x="3312" y="582" width="414" height="582"/>
+	<SubTexture name="crumpleright0004" x="0" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleright0005" x="0" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleright0006" x="0" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleright0007" x="0" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleright0008" x="0" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleright0009" x="0" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleright0010" x="0" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleright0011" x="0" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleright0012" x="0" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleup0000" x="414" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleup0001" x="828" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleup0002" x="1242" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleup0003" x="1656" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleup0004" x="2070" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleup0005" x="2070" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleup0006" x="2070" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleup0007" x="2070" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleup0008" x="2070" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleup0009" x="2070" y="1164" width="414" height="582"/>
+	<SubTexture name="crumpleup0010" x="2070" y="1164" width="414" height="582"/>
+</TextureAtlas>

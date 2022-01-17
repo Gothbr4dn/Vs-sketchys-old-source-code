@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sketchyPortrait.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sketchyPortrait instance 10000" x="0" y="0" width="259" height="275" frameX="0" frameY="0" frameWidth="296" frameHeight="275"/>
+	<SubTexture name="sketchyPortrait instance 10001" x="259" y="0" width="259" height="275" frameX="-9" frameY="0" frameWidth="296" frameHeight="275"/>
+	<SubTexture name="sketchyPortrait instance 10002" x="518" y="0" width="258" height="275" frameX="-19" frameY="0" frameWidth="296" frameHeight="275"/>
+	<SubTexture name="sketchyPortrait instance 10003" x="0" y="275" width="259" height="275" frameX="-28" frameY="0" frameWidth="296" frameHeight="275"/>
+	<SubTexture name="sketchyPortrait instance 10004" x="259" y="275" width="258" height="275" frameX="-38" frameY="0" frameWidth="296" frameHeight="275"/>
+</TextureAtlas>
